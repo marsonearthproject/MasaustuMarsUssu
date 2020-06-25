@@ -1,5 +1,5 @@
 <p align="justify"><font size="2">Masaüstü Mars Üssü için *stl formatında 3D 
-yazıcı baskı dosyalarını içerir.</font></p>
+yazıcı baskı dosyalarını içerir. Baskı sürelerine yazıcı ayarlarında kenarlık baskısı dahil hesaplanmıştır. Kenarlık kullanılmaması durumunda baskı süresi verilen değerlerden yaklaşık 4 dakika daha kısadır.</font></p>
 <p align="justify"><font size="2"><b>Dome Ünitesi</b><br>
 Yaşam alanlarının benzetildiği ümitelerdir. Bir sette 3 adet yarım küre parça 
 bulunmaktadır. Üniteler; 2, 3 ve 4 tünel girişlidir. İstenilen sayıda basılarak 
