@@ -2,7 +2,7 @@
 yazıcı baskı dosyalarını içerir.</font></p>
 <p align="justify"><font size="2"><b>Dome Ünitesi</b><br>
 Yaşam alanlarının benzetildiği ümitelerdir. Bir sette 3 adet yarım küre parça 
-bulunmaktadır. Üniteler; 2, 3 ve 4 tünel girişlidir. İStenilen sayıda basılarak 
+bulunmaktadır. Üniteler; 2, 3 ve 4 tünel girişlidir. İstenilen sayıda basılarak 
 birbirlerine 8 mm lik pipetlerlerden tünelle bağlantı sağlanabilir. Görsel model 
 olup, elektronik bileşen içermemektedir.</font></p>
 <p align="justify"><font size="2"><b>Füzyon Unitesi</b><br>
