@@ -30,7 +30,8 @@ metre 4 gr. filament harcanmaktadır.</font></p>
 <p align="justify"><font size="2"><b>Güç Santrali<br>
 </b>Genel elektrik üretim santrali benzetimidir. Görsel model olup, elektronik 
 bileşen içermemektedir. Yaklaşık 47 dakika baskı süresinde 2.16 metre 6 gr. 
-filament harcanmaktadır.</font><b><font size="2">Silindir Tanklar</font></b><font size="2"><b><br>
+filament harcanmaktadır.</font></p>
+<p align="justify"><b><font size="2">Silindir Tanklar</font></b><font size="2"><b><br>
 </b>Genel depolama amaçlı kullanılan basınçsız silindirik tank benzetimidir. 
 Görsel model olup, elektronik bileşen içermemektedir. Yerleşimde açık olan ağız 
 kısımları aşağı gelecek şekilde yerleştirilir. Yaklaşık 45 dakika baskı 
