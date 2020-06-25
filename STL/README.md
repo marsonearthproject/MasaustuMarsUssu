@@ -63,5 +63,5 @@ içermez. Yaklaşık 23 dakika baskı süresinde 1.06 metre 3 gr. filament harca
 <p align="justify"><font size="2"><b>Mekik Rampası</b><br>
 Dikey kalkış mekik rampası benzetimdidir. Kule ile birlikte kolayca basılabilir. 
 Görsel model olup, elektronik bileşen içermemektedir. Yaklaşık 22 dakika baskı 
-süresinde 0.79 metre 2 gr. filament harcanmaktadır.</font></p>
+süresinde 0.79 metre 2 gr. filament harcanmaktadır. </font></p>
 
