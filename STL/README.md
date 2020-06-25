@@ -53,6 +53,10 @@ harcanmaktadır.</font></p>
 <p align="justify"><font size="2"><b>Regolit Madeni</b><br>
 Regolit maden tesisi girişi benzetimidir. Toz etkisi elde etmek amacıyla turuncu 
 LED kullanılabilir. Yaklaşık 17 dakika baskı süresinde 0.76 metre 2 gr. filament harcanmaktadır.</font></p>
+<p align="justify"><font size="2"><b>Meteor Sondaj</b><br>
+Meteor çukurlarında maden araştırma ünitesi benzetimidir. 1 Adet LED 
+kullanılabilir. Yaklaşık 14 dakika baskı süresinde 0.55 metre 2 gr. filament harcanmaktadır. 
+Baskı alındıktan sonra yüzeye ters olarak yerleştirilir.</font></p>
 <p align="justify"><font size="2"><b>Hava Kontrol Kulesi</b><br>
 Mekik iniş kalkışlarının koordinesi için yüzey hava kule istasyonu benzetimidir. 
 Birbirine kenetlemeli 3 ayrı parçadan oluşmaktadır. Elektronik bileşen içermez. 
@@ -63,5 +67,5 @@ içermez. Yaklaşık 23 dakika baskı süresinde 1.06 metre 3 gr. filament harca
 <p align="justify"><font size="2"><b>Mekik Rampası</b><br>
 Dikey kalkış mekik rampası benzetimdidir. Kule ile birlikte kolayca basılabilir. 
 Görsel model olup, elektronik bileşen içermemektedir. Yaklaşık 22 dakika baskı 
-süresinde 0.79 metre 2 gr. filament harcanmaktadır. </font></p>
+süresinde 0.79 metre 2 gr. filament harcanmaktadır.</font></p>
 
