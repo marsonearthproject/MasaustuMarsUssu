@@ -20,20 +20,26 @@ bilahare paylaşılacaktır.</font></p>
 <p align="justify">&nbsp;</p>
 
 
-Description:
+<b>Description:</b>
+
 This repository contains files related to the remote desktop model of the Mars On Earth Project, which is being developed to create awareness about the Mars colonization and the space researches. After finishing the mini base, the system will connect with the host server through the software, and it will transfer, list the data at certain times. 
 
-Floor:
+<b>Floor:</b>
+
  The Desktop Mars Base Model is 50x50 cm in size. The floor has a 2 cm length height at its four edges as well as consisting of 4 mm plywood. 3D printed 2x2x2 cm sized small units, which have examples in SLT files part, are placed on this floor..
 
-Electronics:
+<b>Electronics:</b>
+
  An Arduino Nano will control the mini base
 
-Sensors:
+<b>Sensors:</b>
+
  LDR,  DHT11, 5 mm normal and RDG LED according to the user request
 
-Communication:
+<b>Communication:</b>
+
 Communication is provided by the ESP8266 WI-FI module, which is under the control of the Arduino Nano. 
 
-Software:
+<b>Software:</b>
+
 MySQL database connection and NODE.JS interface will be shared later on. 
