@@ -68,4 +68,10 @@ içermez. Yaklaşık 23 dakika baskı süresinde 1.06 metre 3 gr. filament harca
 Dikey kalkış mekik rampası benzetimdidir. Kule ile birlikte kolayca basılabilir. 
 Görsel model olup, elektronik bileşen içermemektedir. Yaklaşık 22 dakika baskı 
 süresinde 0.79 metre 2 gr. filament harcanmaktadır.</font></p>
+<p align="justify"><font size="2"><b>Duvar</b><br>
+Toplamda 6 değişik farklı uzunlukta duvar, kapı ve duvar köşe/ara eklentisinden 
+oluşan model olup, elektronik bileşen içermemektedir. Duvarlar ekleme noktaları 
+ile birbirine sıkı geçme şeklinde bağlanıp istenildiği kadar uzatılabilir. Yaklaşık 
+5-8 dakika baskı 
+süresinde 0..40 metre 1 gr. filament harcanmaktadır.</font></p>
 
